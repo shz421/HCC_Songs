@@ -29,3 +29,5 @@ flutter:
 
   assets:
     - assets/images/
+    - assets/files/songs.json
+    - assets/fonts/UniZaw.ttf
