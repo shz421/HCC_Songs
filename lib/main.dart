@@ -64,6 +64,7 @@ class _SplashState extends State<Splash> {
                     color: Colors.white,
                   ),
                 ),
+                SizedBox(height: 20,)
               ],
             ),
           ],

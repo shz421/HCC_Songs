@@ -24,6 +24,14 @@ class _HomeState extends State<Home> {
                 color: Colors.purple,
                 borderRadius: BorderRadius.circular(20),
               ),
+              child: Row(
+                children: [GestureDetector(
+                  onTap: (){
+                    
+                  },
+                  child: Image.asset("assets/images/hccLogo.png", width: 45, height: 45,),
+                )],
+              ),
             ),
           ],
         ),
