@@ -1,0 +1,31 @@
+name: songs
+description: "this is the new flutter HCC songs book app, i just convert it to Flutter, before it was written in JAVA"
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
